@@ -4,8 +4,8 @@ an Offline Data-storeApplication
 ## Features
 - User can create, update, read, delete data
 - Hive as Local-database
-- GetX as statemanagement
-- Mvc folder structure
+- with Bloc
+- Bloc folder structure
 ## Deployment
 https://drive.google.com/file/d/1WurE_cStxiMzUgLAssZ2QMlO573n_7l2/view?usp=share_link
 
