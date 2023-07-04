@@ -7,7 +7,7 @@ an Offline Data-storeApplication
 - with Bloc
 - Bloc folder structure
 ## Deployment
-https://drive.google.com/file/d/1WurE_cStxiMzUgLAssZ2QMlO573n_7l2/view?usp=share_link
+https://drive.google.com/file/d/1Gf6GfqfoGC1M_CPYjCD5lw91SpLdJRls/view?usp=sharing
 
 ## Run Locally
 Clone the project
