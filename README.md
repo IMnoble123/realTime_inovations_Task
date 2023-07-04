@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1WurE_cStxiMzUgLAssZ2QMlO573n_7l2/view?usp=share
 ## Run Locally
 Clone the project
 
-git clone https://github.com/IMnoble123/Employee_sample_data_App.git
+git clone https://github.com/IMnoble123/realTime_inovations_Task.git
 Go to the project directory
 
 -  cd my-project
